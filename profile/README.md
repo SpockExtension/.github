@@ -1,7 +1,7 @@
 Spock: A Browser-based Protocol for Passwordless User Authentication Using Decentralized Trust Model and Public-Key Cryptography
 ===
 
-Contributing guideline: No formal guideline yet, get in touch on Twitter [@augustradjoe](https://twitter.com/augustradjoe) please.
+Contributing guideline: No formal guideline yet, please get in touch on Twitter [@augustradjoe](https://twitter.com/augustradjoe).<br>
 Github: [https://github.com/abhinavmir/spock](https://github.com/SpockExtension)
 
 ## Abstract
