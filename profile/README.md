@@ -2,8 +2,8 @@ Spock: A Browser-based Protocol for Passwordless User Authentication Using Decen
 ===
 
 Contributing guideline: No formal guideline yet, get in touch on Twitter [@augustradjoe](https://twitter.com/augustradjoe) please.
+Github: [https://github.com/abhinavmir/spock](https://github.com/SpockExtension)
 
-Github: https://github.com/abhinavmir/spock
 ## Abstract
 
 Spock is a browser extension that offers a secure and passwordless authentication method for users. Traditional password-based authentication systems are susceptible to various attacks, such as brute-force attacks, password guessing, and phishing. To address these vulnerabilities, Spock leverages public-key cryptography and a decentralized trust model for user authentication. This paper provides an overview of the Spock protocol, its motivation, implementation details, and related works.
